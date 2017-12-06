@@ -1,4 +1,6 @@
 # hello-world
-Hello world!
+Basic python script that prints "Hello World!" to the screen.
 
-don't worry about this edit. I'm just learning about commits.
+My github account looked too bare without something on it...
+
+By: Brad Nelson @redsquirrel_7
